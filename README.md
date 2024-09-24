@@ -11,4 +11,5 @@ Poppin' Party is a balloon popping game developed using Unity and C#. The game o
 - C# for scripting
 
 # How to Play
-Download it!
+1. Download the file Poppin Party! 7
+2. Launch the Application Pop Balloons
